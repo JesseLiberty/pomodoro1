@@ -1,0 +1,5 @@
+D:\pomodoro\pomodoro1\PomodoroWP\AudioPlaybackAgent1\Bin\Debug\AudioPlaybackAgent1.dll
+D:\pomodoro\pomodoro1\PomodoroWP\AudioPlaybackAgent1\Bin\Debug\AudioPlaybackAgent1.pdb
+D:\pomodoro\pomodoro1\PomodoroWP\AudioPlaybackAgent1\obj\Debug\ResolveAssemblyReference.cache
+D:\pomodoro\pomodoro1\PomodoroWP\AudioPlaybackAgent1\obj\Debug\AudioPlaybackAgent1.dll
+D:\pomodoro\pomodoro1\PomodoroWP\AudioPlaybackAgent1\obj\Debug\AudioPlaybackAgent1.pdb
